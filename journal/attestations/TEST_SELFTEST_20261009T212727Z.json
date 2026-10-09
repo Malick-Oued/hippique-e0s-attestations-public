@@ -1,0 +1,20 @@
+{
+ "ATTESTATION_ID": "TEST_SELFTEST_20261009T212727Z",
+ "AUTHORITY_ROLE": "AUTHORITY",
+ "ENGINE_VERSION": {
+  "models": [],
+  "rules_version": "TEST",
+  "ruleset_sha256": null,
+  "ruleset_version": "TEST"
+ },
+ "INPUT_HASH": {
+  "INPUT_CONTENT_FINGERPRINT": null,
+  "INPUT_FINGERPRINT": null
+ },
+ "OUTPUT_HASH": {
+  "PREDICTION_SHA256": "872d4afd4fa71eed807f1f0492db5dbc9377c1e3bc914b8725bb7c1b33cccad5"
+ },
+ "SERVER_TIMESTAMP": "2026-10-09T21:27:27.248274Z",
+ "TEST": true,
+ "schema": "HIPPIQUE_E0_ATTESTATION_V3"
+}
