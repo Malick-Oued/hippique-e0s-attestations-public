@@ -1,0 +1,23 @@
+{
+ "ATTESTATION_ID": "cc46e20db6e6911b5f0b973a48bc7dab",
+ "AUTHORITY_ROLE": "AUTHORITY",
+ "ENGINE_VERSION": {
+  "models": [
+   "MARKET_V0@E0_V0.1",
+   "NUM_V0@E0_V0.1",
+   "PERF_V0@E0_V0.1"
+  ],
+  "rules_version": "E0_V0.1",
+  "ruleset_sha256": "de9b2276c58c7b3b41aebad45df8d84984aa926577570d916c495f8d32a33cd3",
+  "ruleset_version": "E0_V0.5"
+ },
+ "INPUT_HASH": {
+  "INPUT_CONTENT_FINGERPRINT": "7a874513cfa746f4984ddddbf39efbbc2d3be68fbe55c524a9eb48ef7ee14f64",
+  "INPUT_FINGERPRINT": "cc72efcb0b7ed4325362e391d5bb9d2ee8dd21f8709e588ca02176690a66a48c"
+ },
+ "OUTPUT_HASH": {
+  "PREDICTION_SHA256": "2a8e0530f4729b4c4d510e1cd6acdceb52b2f6f449163cc423ffe63f5c0a912b"
+ },
+ "SERVER_TIMESTAMP": "2026-10-18T12:45:20.650469Z",
+ "schema": "HIPPIQUE_E0_ATTESTATION_V3"
+}
