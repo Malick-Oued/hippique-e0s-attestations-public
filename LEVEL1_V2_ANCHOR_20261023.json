@@ -1,0 +1,31 @@
+{
+ "AMENDED_LEVEL1_FILE": {
+  "path": "outils/block5/learning_spec_d5_diff_guard.py",
+  "v1_sha256": "c3704fe1f4c8779ac3ef81a771b74e0c0ed0d27cd4350e61f84cba0ef2b07a23",
+  "v2_sha256": "0427818ef9b2e319b7542a75f021df56a968adddaeecb940f65c000bc8872bc0"
+ },
+ "ANCHOR_PAYLOAD_SHA256": "1d21ef6b3ca15a9bb0a39aa553927966d2446611e1e9f150d0a4513d0586bc9a",
+ "GATE_REV5": {
+  "path": "scripts/block7/security_gate_proposal/rev5_candidate/security_prepush_gate_v2.py",
+  "sha256": "ad0e24a28dae6a7f62d6ab79ee8e5d2a6f54a6140812594501ee8ceb4d804fcb"
+ },
+ "LEVEL1_V1_BASE": {
+  "commit": "d937789ca6fddc61e92134dcd140b3aa9ec7c592",
+  "manifest_sha256": "1c51ae17e5f17acd0803337dc3dc1bca68abe9c17d66a0ea725d168beac7cfc6"
+ },
+ "LEVEL1_V2_MANIFEST": {
+  "path": "docs/block5/LEARNING_SPEC_V1_LEVEL1_MANIFEST_V2.json",
+  "sha256": "f889ccb119fc5e9d2ec109edbacc72a350d0b128c302e411236204acd40d7efd"
+ },
+ "LEVEL1_VERIFIER": {
+  "path": "tests/block6/level1_guard.py",
+  "sha256": "9e7cef92065f0ec0b4ed930d3b6b2bc29df7285306d25b9cdea9e8fb94056122"
+ },
+ "OWNER_AUTHORIZATION_SHA256": [
+  "82e66f5e5953fd44744afefc8e1ec2a77896261f3708d3cc84ab7bebbbfad4f9",
+  "762896864d71e8004dfc95ed030fa08990cefbbadfee1a9f7fc7bc3157d37074"
+ ],
+ "REVIEW13_COMMIT": "45c7f80552a193aba4566f01346413c82e98400e",
+ "purpose": "LEVEL 1 V2 amendment (REVIEW_13): independently fixes the SHA256 of the Level 1 V2 manifest and of the Level 1 verifier",
+ "schema": "HIPPIQUE_LEVEL1_V2_PUBLIC_ANCHOR_V1"
+}
